@@ -6,27 +6,27 @@ _But Why?_ Models like this, can be used to automate the loan eligibility proces
 
 ## Hypotheses
 **Applicants are more likely to be approved for a loan if they have:**
-1. A strong credit history 
-2. A high unified applicant and co-applicant income
-3. A high education level
-4. A property in an urban area with high growth perspectives
+1. A strong credit history.
+2. A high unified applicant and co-applicant income.
+3. A high education level.
+4. A property in an urban area with high growth perspectives.
 
 ## Approach
 1. Hypothesis Generation – brainstorm factors that can impact an applicants probability of loan approval.
 2. Exploratory Data Analysis – examine data and make inferences about distributions.
 3. Data Cleaning – imputing missing values in the data and checking for outliers.
 4. Feature Engineering – modifying existing variables and creating new ones for analysis.
-5. Model Building – make predictive models capable of predicting whether an applicant will be approved for a loan (to a high degree of accuracy)
+5. Model Building – make predictive models capable of predicting whether an applicant will be approved for a loan (to a high degree of accuracy).
 
 ## TODO
-6. Deploy model as REST-API (Flask) on AWS
-7. Complete Presentation (gaps)
+6. Deploy model as REST-API (Flask) on AWS.
+7. Complete Presentation (gaps).
 
 ## Presentation
 [Google Slides](https://docs.google.com/presentation/d/1pDMQFmwXwtYOgxeC4BEFW06G6skYX9iLMknwgyfUl9c/edit?usp=sharing)
 
 ## Data
-The dataset used can be found [here](https://drive.google.com/file/d/1h_jl9xqqqHflI5PsuiQd_soNYxzFfjKw/view?usp=sharing)
+The dataset used can be found [here](https://drive.google.com/file/d/1h_jl9xqqqHflI5PsuiQd_soNYxzFfjKw/view?usp=sharing).
 
 Information collected per loan applicant include:
 |Variable| Description|
