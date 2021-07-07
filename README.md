@@ -2,8 +2,7 @@
 ## Objective
 Design a supervised ML model that can predict whether a loan will be approved or not for a given applicant.
 
-_But Why?_\
-Models like this, can be used to automate the loan eligibility process for the banking industry. Pre-screening applicants based on their online application details.
+_But Why?_ Models like this, can be used to automate the loan eligibility process for the banking industry. Pre-screening applicants based on their online application details.
 
 ## Hypotheses
 **Applicants are more likely to be approved for a loan if they have:**
