@@ -31,7 +31,7 @@ The dataset used can be found [here](https://drive.google.com/file/d/1h_jl9xqqqH
 
 Information collected, per loan applicant include:
 |Variable| Description|
-|: ------------- |:-------------|
+|------------- |-------------|
 |Loan_ID| Unique Loan ID|
 |Gender| Male/ Female|
 |Married| Applicant married (Y/N)|
