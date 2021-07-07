@@ -1,0 +1,4 @@
+{'rf': RandomForestClassifier(max_depth=30, max_features='sqrt', min_samples_leaf=2,
+                       min_samples_split=10, n_estimators=1760), 'rf__bootstrap': True, 'rf__max_depth': 30, 'rf__max_features': 'sqrt', 'rf__min_samples_leaf': 2, 'rf__min_samples_split': 10, 'rf__n_estimators': 1760}
+0.7426371826371826
+0.7741935483870968
